@@ -1,7 +1,7 @@
 
 import random
 i=0
-wyrazy=["mysz","kot","auto","pies","mama","tata","dom","oko","wzrok","telewizor","rower","statek","samolot","deskorolka","rolki","hulajnoga","babcia","dziadek","cocia","wujek","kuzyn","kuzynka","brat","siostra","nos","usta","policzek","brew","włosy","czoło","chomik","papuga","słoń","ryba","rekin","blok","namiot","igloo","telefon","pilot","słuchawki","laptop","konsola","klawiatura","mysz"]
+wyrazy=["mysz","kot","auto","pies","mama","tata","dom","oko","wzrok","telewizor","rower","statek","samolot","deskorolka","rolki","hulajnoga","babcia","dziadek","cocia","wujek","kuzyn","kuzynka","brat","siostra","nos","usta","policzek","brew","włosy","czoło","chomik","papuga","słoń","ryba","rekin","blok","namiot","igloo","telefon","pilot","słuchawki","laptop","konsola","klawiatura","mysz","krowa","koń","świnia","owca","baran","kura","dzik","jeleń","drzewo","paproć","kwiat","trawa","zioło","krzak",""]
 wyraz = random.choice(wyrazy)
 listawyrazu=list(wyraz)
 długość=len(listawyrazu)
