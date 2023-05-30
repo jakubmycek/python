@@ -48,10 +48,10 @@ if a<0:
     a=a*-1
 print(a)
 
-
-for i in range(4):
+'''
+for i in range(5):
     print(i)
-
+'''
 for i in range(1,100):
     print(i)
 
@@ -126,7 +126,7 @@ B=set(["anna","grześ"])
 print(A.intersection(B))
 print(A.difference(B))
 print(A.union(B))
-'''
+
 
 tupla=()
 tupla1=(1,"de",45,6,"hg",3.14)
@@ -155,3 +155,4 @@ for imie, numer in kontakty.items():
 
 if "jaś" in kontakty:
     print("jaś znajduje się w słowniku")
+    '''
